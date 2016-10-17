@@ -1,0 +1,4 @@
+﻿  main.cpp
+y:\dsal\dsal-icho\lesson1\lesson1\main.cpp(8): warning C4101: 'ourClock': unreferenced local variable
+  Lesson1.vcxproj -> Y:\DSAL\DSAL-ICHO\Lesson1\Debug\Lesson1.exe
+  Lesson1.vcxproj -> Y:\DSAL\DSAL-ICHO\Lesson1\Debug\Lesson1.pdb (Full PDB)
